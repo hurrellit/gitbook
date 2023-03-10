@@ -4,7 +4,7 @@
 
 In **≥ 2.0.0-funcrel**, CAST provides a **.yml file** that is used to install the Console front-end in "**enterprise mode**" on Docker (Linux) or Docker Desktop (Microsoft Windows) as part of the download media available on CAST Extend ([**https://extend.castsoftware.com/#/extension?id=com.castsoftware.aip.console\&version=latest**](https://extend.castsoftware.com/#/extension?id=com.castsoftware.aip.console\&version=latest)):
 
-![](https://doc.castsoftware.com/download/attachments/575766693/yml.jpg?version=1\&modificationDate=1649343304863\&api=v2)
+
 
 | If you are not able to use Docker / Docker Desktop, please see [**2.x - Enterprise mode - Installation of AIP Console front-end via Java JAR installers**](https://doc.castsoftware.com/display/AIPCONSOLEDRAFT/2.x+-+Enterprise+mode+-+Installation+of+AIP+Console+front-end+via+Java+JAR+installers) for an alternative enterprise deployment option. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
